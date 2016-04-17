@@ -52,3 +52,4 @@
 - :beers: - [list.js - the perfect library for adding search, sort, filters and flexibility to various HTML elements](https://github.com/javve/list.js)
 - :wrench: - [netdata - real-time performance monitoring, done right!](https://github.com/firehol/netdata)
 - :beers: - [front-end-check-list - checklist Front-End para ajudar a implementar boas práticas](https://github.com/afonsopacifer/front-end-checklist)
+- :beers: - [awesome-flexbox - a curated list of CSS Flexbox.](https://github.com/afonsopacifer/awesome-flexbox)
