@@ -57,3 +57,4 @@
 - :wrench: - [github-stats - visualize stats about GitHub users and projects in your terminal](https://github.com/IonicaBizau/github-stats)
 - :wrench: - [ghcal - see the GitHub contributions calendar of a user in the command line](https://github.com/IonicaBizau/ghcal)
 - :lollipop: - [optikey -  full computer control and speech with your eyes](https://github.com/OptiKey/OptiKey)
+- :beers: - [qualy-presenter - a boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more](https://github.com/Qualy-org/qualy-presenter)
