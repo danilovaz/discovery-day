@@ -22,6 +22,7 @@ Lists is organized by months and the items inside it is separated according to t
 - :iphone: - mobile
 - :bulb: - ideas
 - :lollipop: - others
+- :zzz: - nothing/sleep/rest/vacation/holiday
 
 ## License
 
