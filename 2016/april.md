@@ -54,3 +54,4 @@
 - :beers: - [front-end-check-list - checklist Front-End para ajudar a implementar boas práticas](https://github.com/afonsopacifer/front-end-checklist)
 - :beers: - [awesome-flexbox - a curated list of CSS Flexbox.](https://github.com/afonsopacifer/awesome-flexbox)
 - :wrench: - [git-stats - local git statistics including GitHub-like contributions calendars](https://github.com/IonicaBizau/git-stats)
+- :wrench: - [github-stats - visualize stats about GitHub users and projects in your terminal](https://github.com/IonicaBizau/github-stats)
