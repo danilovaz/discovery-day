@@ -2,6 +2,7 @@
 
 # discovery-day
 > List of useful :punch: and amazing :pray: repositories I discovered every day.
+[![Build Status](https://travis-ci.org/danilovaz/discovery-day.svg?branch=master)](https://travis-ci.org/danilovaz/discovery-day)
 
 This repository is a way for me to catalog and organize some useful and amazing repositories that I found there. But this idea came from that [wonderful repository](https://github.com/fbeegle/discovery-log) of [fbeegle](https://github.com/fbeegle/).
 
