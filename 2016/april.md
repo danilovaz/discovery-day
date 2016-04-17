@@ -59,3 +59,4 @@
 - :lollipop: - [optikey -  full computer control and speech with your eyes](https://github.com/OptiKey/OptiKey)
 - :beers: - [qualy-presenter - a boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more](https://github.com/Qualy-org/qualy-presenter)
 - :beers: - [hjson - hjson, the Human JSON ](https://github.com/laktak/hjson)
+- :coffee: - [tensorflow - computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
