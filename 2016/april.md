@@ -60,3 +60,4 @@
 - :beers: - [qualy-presenter - a boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more](https://github.com/Qualy-org/qualy-presenter)
 - :beers: - [hjson - hjson, the Human JSON ](https://github.com/laktak/hjson)
 - :coffee: - [tensorflow - computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+- :wrench: - [waffle.io - smart and Simple Project Management for Teams on GitHub](https://github.com/waffleio/waffle.io)
