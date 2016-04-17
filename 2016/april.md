@@ -47,3 +47,6 @@
 
 ### day 16
 - :wrench: - [the-super-tiny-compiler - possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
+
+### day 17
+- :beers: - [list.js - the perfect library for adding search, sort, filters and flexibility to various HTML elements](https://github.com/javve/list.js)
