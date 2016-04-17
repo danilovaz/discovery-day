@@ -3,11 +3,11 @@
 # discovery-day
 > List of useful :punch: and amazing :pray: repositories I discovered every day.
 
+This repository is a way for me to catalog and organize some useful and amazing repositories that I found there. But this idea came from that [wonderful repository](https://github.com/fbeegle/discovery-log) of [fbeegle](https://github.com/fbeegle/).
+
 ## Lists
 
 ### 2016
-
-This repository is a way for me to catalog and organize some useful and amazing repositories that I found there. But this idea came from that [wonderful repository](https://github.com/fbeegle/discovery-log) of [fbeegle](https://github.com/fbeegle/).
 
 * :calendar: [April](https://github.com/danilovaz/discovery-day/blob/master/2016/april.md)
 
