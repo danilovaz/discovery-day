@@ -50,3 +50,4 @@
 
 ### day 17
 - :beers: - [list.js - the perfect library for adding search, sort, filters and flexibility to various HTML elements](https://github.com/javve/list.js)
+- :wrench: - [netdata - real-time performance monitoring, done right!](https://github.com/firehol/netdata)
