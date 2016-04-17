@@ -55,3 +55,4 @@
 - :beers: - [awesome-flexbox - a curated list of CSS Flexbox.](https://github.com/afonsopacifer/awesome-flexbox)
 - :wrench: - [git-stats - local git statistics including GitHub-like contributions calendars](https://github.com/IonicaBizau/git-stats)
 - :wrench: - [github-stats - visualize stats about GitHub users and projects in your terminal](https://github.com/IonicaBizau/github-stats)
+- :wrench: - [ghcal - see the GitHub contributions calendar of a user in the command line](https://github.com/IonicaBizau/ghcal)
