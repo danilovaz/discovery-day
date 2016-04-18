@@ -61,3 +61,6 @@
 - :beers: - [hjson - hjson, the Human JSON ](https://github.com/laktak/hjson)
 - :coffee: - [tensorflow - computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - :wrench: - [waffle.io - smart and Simple Project Management for Teams on GitHub](https://github.com/waffleio/waffle.io)
+
+### day 18
+- :lollipop: - [dev-podcast-list-brazil - lista de podcasts focados em programação, tecnologia e ciências da computação](https://github.com/ogilvieira/dev-podcast-list-brazil)
