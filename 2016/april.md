@@ -65,3 +65,4 @@
 ### day 18
 - :lollipop: - [dev-podcast-list-brazil - lista de podcasts focados em programação, tecnologia e ciências da computação](https://github.com/ogilvieira/dev-podcast-list-brazil)
 - :lollipop: - [what-happens-when - an attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
+- :wrench: - [ora - elegant terminal spinner](https://github.com/sindresorhus/ora)
