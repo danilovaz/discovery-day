@@ -86,3 +86,4 @@
 - :lollipop: - [ladytalks - mulheres falando de tecnologia, para elas mesmas](https://github.com/ladytalks/ladytalks.github.io)
 - :beers: - [pizzicato - library to simplify the way you create and manipulate sounds with the Web Audio API](https://github.com/alemangui/pizzicato)
 - :coffee: - [hylogen - haskell EDSL for live-coding fragment shaders](https://github.com/sleexyz/hylogen)
+- :lollipop: - [awesome-speaking - a collection of awesome resources about public speaking](https://github.com/matteofigus/awesome-speaking)
