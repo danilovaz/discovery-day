@@ -23,6 +23,7 @@ Lists is organized by months and the items inside it is separated according to t
 - :iphone: - mobile
 - :bulb: - ideas
 - :movie: - courses/videos
+- :books: - books
 - :lollipop: - others
 - :zzz: - nothing/sleep/rest/vacation/holiday
 
