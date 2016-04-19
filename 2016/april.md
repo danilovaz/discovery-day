@@ -94,3 +94,4 @@
 - :beers: - [popper.js - a kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
 - :beers: - [atrament.js - tiny JS library for beautiful drawing and handwriting on the HTML Canvas](https://github.com/jakubfiala/atrament.js)
 - :wrench: - [CSSdig - chrome extension for analyzing CSS](https://github.com/tomgenoni/cssdig-chrome)
+- :wrench: - [specificity - a JavaScript module for calculating the specificity of CSS selectors](https://specificity.keegan.st/)
