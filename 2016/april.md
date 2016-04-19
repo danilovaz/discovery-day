@@ -88,3 +88,4 @@
 - :coffee: - [hylogen - haskell EDSL for live-coding fragment shaders](https://github.com/sleexyz/hylogen)
 - :lollipop: - [awesome-speaking - a collection of awesome resources about public speaking](https://github.com/matteofigus/awesome-speaking)
 - :beers: - [es6-features - ECMAScript 6: Feature Overview & Comparison](https://github.com/rse/es6-features)
+- :books: - [eloquente-javascript - a portuguese translation of Eloquent JavaScript online book](https://github.com/braziljs/eloquente-javascript)
