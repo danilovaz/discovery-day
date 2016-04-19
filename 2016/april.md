@@ -87,3 +87,4 @@
 - :beers: - [pizzicato - library to simplify the way you create and manipulate sounds with the Web Audio API](https://github.com/alemangui/pizzicato)
 - :coffee: - [hylogen - haskell EDSL for live-coding fragment shaders](https://github.com/sleexyz/hylogen)
 - :lollipop: - [awesome-speaking - a collection of awesome resources about public speaking](https://github.com/matteofigus/awesome-speaking)
+- :beers: - [es6-features - ECMAScript 6: Feature Overview & Comparison](https://github.com/rse/es6-features)
