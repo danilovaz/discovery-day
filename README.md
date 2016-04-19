@@ -22,6 +22,7 @@ Lists is organized by months and the items inside it is separated according to t
 - :wrench: - architecture and tools
 - :iphone: - mobile
 - :bulb: - ideas
+- :movie: - courses/videos
 - :lollipop: - others
 - :zzz: - nothing/sleep/rest/vacation/holiday
 
