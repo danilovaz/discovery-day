@@ -79,3 +79,6 @@
 - :beers: - [qualy-front - a  simple boilerplate with ES6, Gulp, Jade, Stylus and Browsersync](https://github.com/Qualy-org/qualy-front)
 - :beers: - [flex-grid-framework - the flex semantic grid focusing on performance](https://github.com/afonsopacifer/flex-grid-framework)
 - :coffee: - [find - high-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
+
+### day 19
+- :lollipop: - [empresas-ti - lista de empresas de TI no Brasil](https://github.com/renatodinhani/empresas-ti)
