@@ -83,3 +83,4 @@
 ### day 19
 - :lollipop: - [empresas-ti - lista de empresas de TI no Brasil](https://github.com/renatodinhani/empresas-ti)
 - :lollipop: - [maybe-hugs - polyglot implementations of conditional hugging](https://github.com/zkat/maybe-hugs)
+- :lollipop: - [ladytalks - mulheres falando de tecnologia, para elas mesmas](https://github.com/ladytalks/ladytalks.github.io)
