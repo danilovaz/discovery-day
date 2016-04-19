@@ -91,3 +91,4 @@
 - :books: - [eloquente-javascript - a portuguese translation of Eloquent JavaScript online book](https://github.com/braziljs/eloquente-javascript)
 - :coffee: - [eve - a simple bot to work with the new Facebook Messenger API using Wit.ai](https://github.com/willianjusten/eve)
 - :beers: - [font-magician - magically generate all the @font-face rules](https://github.com/jonathantneal/postcss-font-magician/)
+- :beers: - [popper.js - a kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
