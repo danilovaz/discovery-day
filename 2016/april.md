@@ -102,3 +102,4 @@
 - :wrench: - [husky - git hooks made easy](https://github.com/typicode/husky)
 - :beers: - [hologram - a markdown based documentation system for style guides](https://github.com/trulia/hologram)
 - :beers: - [mdcss - easily create and maintain style guides using CSS comments](https://github.com/jonathantneal/mdcss)
+- :beers: - [dss - documented Style Sheets Parser ](https://github.com/DSSWG/DSS)
