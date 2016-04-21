@@ -95,3 +95,7 @@
 - :beers: - [atrament.js - tiny JS library for beautiful drawing and handwriting on the HTML Canvas](https://github.com/jakubfiala/atrament.js)
 - :wrench: - [CSSdig - chrome extension for analyzing CSS](https://github.com/tomgenoni/cssdig-chrome)
 - :wrench: - [specificity - a JavaScript module for calculating the specificity of CSS selectors](https://specificity.keegan.st/)
+
+### day 20
+
+- :beers: - [js-the-right-way - an easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web](https://github.com/braziljs/js-the-right-way)
