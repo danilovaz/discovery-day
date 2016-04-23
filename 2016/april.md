@@ -103,3 +103,6 @@
 - :beers: - [hologram - a markdown based documentation system for style guides](https://github.com/trulia/hologram)
 - :beers: - [mdcss - easily create and maintain style guides using CSS comments](https://github.com/jonathantneal/mdcss)
 - :beers: - [dss - documented Style Sheets Parser ](https://github.com/DSSWG/DSS)
+
+### day 21
+- :wrench: - [gifshot - javascript library that can create animated GIFs from media streams, videos, or images](https://github.com/yahoo/gifshot)
