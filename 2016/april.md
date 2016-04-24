@@ -105,3 +105,7 @@
 
 ### day 21
 - :wrench: - [gifshot - javascript library that can create animated GIFs from media streams, videos, or images](https://github.com/yahoo/gifshot)
+
+### day 22
+- :lollipop: - [logo.js - a community logo for JS](https://github.com/voodootikigod/logo.js)
+- :wrench: - [pomodoro - pomodoro time managment tool build with electron](https://github.com/G07cha/pomodoro)
