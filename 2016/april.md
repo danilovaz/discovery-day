@@ -116,3 +116,4 @@
 ### day 24
 - :beers: - [styleguide - living style guide easy](https://github.com/devbridge/Styleguide)
 - :wrench: - [glot.io - pastebin with runnable snippets and API](https://github.com/prasmussen/glot)
+- :coffee: - [rubycritic - a ruby code quality reporter](https://github.com/whitesmith/rubycritic)
