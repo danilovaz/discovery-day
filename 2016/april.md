@@ -111,4 +111,7 @@
 - :wrench: - [pomodoro - pomodoro time managment tool build with electron](https://github.com/G07cha/pomodoro)
 
 ### day 23
-- :beers: - [styleguide - a tool to make creating and maintaining style guides easy](https://github.com/hugeinc/styleguide)
+- :beers: - [styleguide huge - a tool to make creating and maintaining style guides easy](https://github.com/hugeinc/styleguide)
+
+### day 24
+- :beers: - [styleguide - living style guide easy](https://github.com/devbridge/Styleguide)
