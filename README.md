@@ -1,4 +1,6 @@
-![discovery-day cover](https://raw.githubusercontent.com/danilovaz/discovery-day/master/assets/logo.png)
+<p align="center">
+  <img src="./assets/logo.png" alt="Discovery Day Logo">
+</p>
 
 # discovery-day
 > List of useful :punch: and amazing :pray: repositories I discovered every day.
