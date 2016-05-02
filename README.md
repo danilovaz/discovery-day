@@ -13,6 +13,7 @@ This repository is a way for me to catalog and organize some useful and amazing 
 ### 2016
 
 * :calendar: [April](https://github.com/danilovaz/discovery-day/blob/master/2016/april.md)
+* :calendar: [May](https://github.com/danilovaz/discovery-day/blob/master/2016/may.md)
 
 ## Lists organization
 
