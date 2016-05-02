@@ -43,7 +43,7 @@
 - :zzz: :zzz: :zzz:
 
 ### day 15
-- :lollipop: - [discovery-log - just crazy things](https://github.com/fbeegle/discovery-log)
+- :lollipop: - [discovery-log - just crazy things](https://github.com/felipeorlando/discovery-log)
 
 ### day 16
 - :wrench: - [the-super-tiny-compiler - possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)
